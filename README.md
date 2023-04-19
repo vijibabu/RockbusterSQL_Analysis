@@ -18,13 +18,19 @@ _The link to the data is **[Rockbuster Dataset](http://www.postgresqltutorial.co
 ## Tools
 _Tools used for analysis and visualization are:_
 
-**- PostgreSQl**
+**- PostgreSQL**
 
 **- Tableau**
 
-## Codes
-_The codes used in this analysis include **joins, subqueries, cte.**_
+## Execution Approach
+_The execution approach used to answer the business queries include:_
+
+**- SQL - joins**
+
+**- SQL - subqueries**
+
+**- SQL - Common Table Expression(CTE)**
 
 ## Links
 
-_The link to visualization in Tableau is **[Tableau visualization](https://public.tableau.com/app/profile/vijayalakshmi.venugopal/viz/Rockbuster_Analysis/Countries_Revenue)**_
+_The link to visualization in Tableau is **[Tableau visualization](https://public.tableau.com/app/profile/vijayalakshmi.venugopal/viz/Rockbuster_Analysis_Storyboard/Rockbuster_Analysis)**_
