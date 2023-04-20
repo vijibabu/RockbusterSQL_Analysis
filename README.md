@@ -31,6 +31,8 @@ _The execution approach used to answer the business queries include:_
 
 **- SQL - Common Table Expression(CTE)**
 
+**- SQL - Rank function**
+
 ## Links
 
 _The link to visualization in Tableau is **[Tableau visualization](https://public.tableau.com/app/profile/vijayalakshmi.venugopal/viz/Rockbuster_Analysis_Storyboard/Rockbuster_Analysis)**_
