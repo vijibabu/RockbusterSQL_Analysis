@@ -35,4 +35,4 @@ _The execution approach used to answer the business queries include:_
 
 ## Links
 
-_The link to visualization in Tableau is **[Tableau visualization](https://public.tableau.com/app/profile/vijayalakshmi.venugopal/viz/Rockbuster_Analysis_Storyboard/Rockbuster_Analysis)**_
+_The link to visualization in Tableau is **[here](https://public.tableau.com/app/profile/vijayalakshmi.venugopal/viz/Rockbuster_Analysis_Storyboard/Rockbuster_Analysis)**_
